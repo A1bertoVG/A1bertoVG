@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Garquez
+- 👋 Hi, I’m @A1bertoVG
 - 👀 I’m interested in Artificial Intelligence, Embedded Systems and also sharing the little knoledge that I have.
 - 🌱 I’m currently learning Python, C++, Linux and moving to VS Code.
 - 💞️ I’m looking to collaborate on projects related to AI, ML, DL, App development or projects that involve music ;)
