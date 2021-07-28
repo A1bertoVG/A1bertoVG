@@ -8,9 +8,7 @@ _Gmail:_ ``betovel99@gmail.com``
 
 _Instagram:_ ``@betovelasque99``
 
-_Linkedin:_ ``Alberto Velasquez Garcia`` 
-
-https://www.linkedin.com/in/alberto-velasquez-garcia-5887a5203
+_Linkedin:_ [Alberto Velasquez Garcia](https://www.linkedin.com/in/alberto-velasquez-garcia-5887a5203)
 
 
 <!---
